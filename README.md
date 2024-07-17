@@ -35,5 +35,6 @@ This repository contains the Pytorch implementation of image segmentation from s
 
 - ✅ Include linear regression implementation from scratch.
 - ✅ Include PyTorch model training, Batches, and Datasets and Dataloaders notebook.
+- ✅ Include hyperparamters tuning and save & load the model .
 
 ### Thanks!
